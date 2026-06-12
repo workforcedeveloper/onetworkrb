@@ -1,0 +1,1 @@
+from onetworkdb.tasks.job_norm import ONETJobNormRanking
